@@ -16,8 +16,6 @@ I'm **Isaac Hayes**, a **Software Engineer & Digital Transformation Leader** pas
 ![RFID](https://img.shields.io/badge/RFID-006BA6?style=for-the-badge&logo=radio&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
 
-## GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=IsaacHayes1995&theme=default&hide_border=true)  
 
 ##  Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/isaac-hayes/)  
